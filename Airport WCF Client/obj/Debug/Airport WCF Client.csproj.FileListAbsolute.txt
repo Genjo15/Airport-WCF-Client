@@ -1,0 +1,9 @@
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\bin\Debug\Airport WCF Client.exe.config
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\bin\Debug\Airport WCF Client.exe
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\bin\Debug\Airport WCF Client.pdb
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\obj\Debug\Airport WCF Client.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\obj\Debug\Airport_WCF_Client.Form1.resources
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\obj\Debug\Airport_WCF_Client.Properties.Resources.resources
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\obj\Debug\Airport WCF Client.csproj.GenerateResource.Cache
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\obj\Debug\Airport WCF Client.exe
+c:\users\anthony\documents\visual studio 2012\Projects\Airport WCF Client\Airport WCF Client\obj\Debug\Airport WCF Client.pdb
